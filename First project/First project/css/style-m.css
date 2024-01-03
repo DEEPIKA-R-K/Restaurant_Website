@@ -1,0 +1,10 @@
+.page{
+    background-image: url('../media/banner-menu.png');
+    background-size:cover;
+    background-position:center;
+    height:50vh;
+    flex:auto;
+    align-items: flex-start;
+    background-repeat:no-repeat;
+    color:black;
+}
